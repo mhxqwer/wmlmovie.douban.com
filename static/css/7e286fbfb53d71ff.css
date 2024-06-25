@@ -1,0 +1,100 @@
+
+        #content h2 {color:#007722;}
+        .indent {*zoom: 1; margin-bottom: 30px;}
+        .article h2{margin:24px 0 3px 0}
+    .discussion_link a{font-size: 14px; color: #999; }
+    .discussion_link a:hover{ color: #fff; background: #999;}
+    #mainpic img { max-width: 135px; }
+    #mainpic { width: 143px; }
+    .biz {font-size: 11px; height: 19px; line-height: 19px;margin: 0; background-color: #fdd658;border-radius: 10px;display: inline-block;width: 65px; color: #764f0f;}
+    .section-discussion table tr .pl{
+        padding: 8px 3px 8px 0;
+    }
+    .article h2{margin:24px 0 12px 0}
+  
+    .more-attrs,
+    .more-attrs:link {
+        color: #aaa;
+    }
+
+    .more-attrs:hover{
+        color: #fff;
+        background: #aaa;
+    }
+
+.tags {
+    margin-bottom:30px;
+}
+.tags-body {
+    line-height:24px;
+    letter-spacing:-0.31em;
+    *letter-spacing:normal;
+}
+.tags-body a {
+    display:inline-block;
+    *display:inline;
+    letter-spacing:normal;
+    margin:0 8px 8px 0;
+    padding:0 8px;
+    background-color:#f5f5f5;
+    -webkit-border-radius:2px;
+       -moz-border-radius:2px;
+            border-radius:2px;
+}
+
+.tags-body a:link,
+.tags-body a:visited {
+    background-color:#f5f5f5;
+    color: #37A;
+}
+
+.tags-body a:hover,
+.tags-body a:active {
+    background-color: #e8e8e8;
+    color: #37A;
+}
+
+#subject-doulist {
+    margin-bottom: 40px;
+    word-wrap: break-word;
+}
+#subject-doulist ul {
+    border-top: 1px dashed #DDD;
+}
+#subject-doulist li {
+    padding: 4.5px 0;
+    border-bottom: 1px dashed #DDD;
+}
+#subject-doulist li span {
+    line-height: 1.5;
+    color: #666;
+}
+#subject-doulist .doulist-add-btn {
+    float: none;
+    margin-top: 5px;
+}
+
+#subject-others-interests {
+    margin-bottom: 40px;
+    word-wrap: break-word;
+}
+#subject-others-interests ul {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+#subject-others-interests li {
+    overflow: hidden;
+    *zoom: 1;
+    padding: 12px 0;
+    border-bottom: 1px dashed #DDD;
+    line-height: 1.5;
+    color: #666;
+}
+#subject-others-interests .others-interest-avatar {
+    float: left;
+    margin-right: 12px;
+}
+#subject-others-interests .others-interest-info {
+    overflow: hidden;
+    *zoom: 1;
+}
